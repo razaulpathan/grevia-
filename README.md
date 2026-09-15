@@ -1,6 +1,11 @@
 # Grevia — Complete Realtime Social Messaging Application
 
+[![Developer](https://img.shields.io/badge/Developer-Razaul%20Pathan-18A957?style=for-the-badge&logo=github)](https://github.com/razaulpathan)
+[![GitHub](https://img.shields.io/badge/GitHub-razaulpathan-111614?style=for-the-badge&logo=github)](https://github.com/razaulpathan)
+[![Repository](https://img.shields.io/badge/Repo-grevia--18A957?style=for-the-badge&logo=git)](https://github.com/razaulpathan/grevia-)
+
 Grevia is a high-performance, privacy-first realtime social messaging application built with Flutter, Riverpod Clean Architecture, Firebase Cloud services, and WebRTC peer-to-peer audio/video calling.
+
 
 Inspired by the usability of Telegram, WhatsApp, and Messenger, Grevia delivers an original brand identity, refined typography, and responsive light and dark themes.
 
@@ -165,3 +170,84 @@ cd functions
 npm install
 firebase deploy --only functions
 ```
+
+---
+
+## 8. Author & Developer
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/razaul-haq-50785242a" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://github.com/razaulpathan" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
+</p>
+
+### 👨‍💻 **Razaul Haq (Pathan)**
+*🚀 Full-Stack Mobile & Backend Developer | Flutter & PHP Specialist*
+
+- 🔭 Currently building **production-grade mobile & web applications**.
+- ⚡ Specialized in **Flutter (Android/iOS/Web)** and **Core PHP 8+ REST APIs with MySQL**.
+- 🎯 Focused on **Clean Architecture**, **State Management**, **Database Optimization**, and **Realtime Audio/Video WebRTC**.
+- 💬 Ask me about: **Flutter, Dart, WebRTC, Firebase, REST API Security, MySQL Architecture, and Gig Economy Apps**.
+
+### 🛠️ Tech Stack & Technologies
+
+<p align="left">
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="36" height="36"/>
+  </a>
+  &nbsp;
+  <a href="https://dart.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="36" height="36"/>
+  </a>
+  &nbsp;
+  <a href="https://firebase.google.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="36" height="36"/>
+  </a>
+  &nbsp;
+  <a href="https://webrtc.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/webrtc/webrtc-icon.svg" alt="webrtc" width="36" height="36"/>
+  </a>
+  &nbsp;
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="36" height="36"/>
+  </a>
+  &nbsp;
+  <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="36" height="36"/>
+  </a>
+  &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="36" height="36"/>
+  </a>
+  &nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/>
+  </a>
+  &nbsp;
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="36" height="36"/>
+  </a>
+</p>
+
+### 🌟 Featured Projects
+
+| Project | Description | Core Stack | Link |
+|:---|:---|:---|:---:|
+| 💬 **Grevia** | Complete Realtime Social Messaging Application with WebRTC Calling, Riverpod Clean Architecture & Firebase Cloud Services | `Flutter` `Riverpod` `Firebase` `WebRTC` | [📁 View Code](https://github.com/razaulpathan/grevia-) |
+| 🛠️ **ServiceHub** | Cooperative Gig Services Platform with Flutter Customer/Worker Apps, PHP REST API, & Web Admin Panel | `Flutter` `PHP 8` `MySQL` `REST API` | [📁 View Code](https://github.com/razaulpathan/service-hub) |
+
+### 📬 Connect with Me
+
+- 💼 **LinkedIn**: [razaul-haq-50785242a](https://www.linkedin.com/in/razaul-haq-50785242a)
+- 🐙 **GitHub Profile**: [@razaulpathan](https://github.com/razaulpathan)
+- 📁 **Repository**: [grevia-](https://github.com/razaulpathan/grevia-)
+
+---
+<p align="center">
+  <i>"Building scalable digital solutions with clean code & modern design."</i>
+</p>
+
+
